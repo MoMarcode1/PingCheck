@@ -1,0 +1,14 @@
+{
+    "IP_TO_NAME": {
+        "192.168.1.57": "Device 1",
+        "192.168.1.126": "Device 2"
+    },
+    "EMAIL_SETTINGS": {
+        "to_email": "",
+        "from_email": "",
+        "smtp_server": "smtp-mail.outlook.com",
+        "smtp_port": 587,
+        "smtp_user": "",
+        "smtp_pass": ""
+    }
+}
